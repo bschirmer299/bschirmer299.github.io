@@ -1,0 +1,17 @@
+html, body {
+    box-sizing: border-box;
+    margin: 0px;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0px;
+}
+
+.text-white {
+    color: white;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}

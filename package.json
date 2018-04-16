@@ -1,0 +1,24 @@
+{
+  "name": "bschirmer299.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch ./common.blocks/styles.scss ./css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bschirmer299/bschirmer299.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bschirmer299/bschirmer299.github.io/issues"
+  },
+  "homepage": "https://github.com/bschirmer299/bschirmer299.github.io#readme",
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
